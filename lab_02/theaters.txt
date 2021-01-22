@@ -1,0 +1,363 @@
+40
+Theater of Satire
+Youth of Louis XIV
+Gengram
+1200
+3500
+2
+3
+Operetta Theater
+Juno and Avos
+Lucius
+1250
+9800
+2
+2
+Theater of Satire
+Opera beggars
+Grimo
+750
+1300
+2
+1
+Alla Dukhovoy Theater
+Maids
+Leverworlf
+200
+2000
+1
+3
+Rubenshtein
+Russia
+11
+140
+Broadway
+My beautiful lady
+Watson
+7000
+15000
+3
+Nicolson
+Great Britain
+21
+230
+Moscow Art Theater
+Mu Mu
+Turgenev
+200
+1500
+1
+2
+12
+Operetta Theater
+Anna Karenina
+Joe Right
+1000
+5000
+2
+1
+Moscow Art Theater
+Maid's notes
+Higmut
+3000
+5000
+1
+3
+Goggerman
+Russia
+12
+120
+Alla Dukhovoy Theater
+For two hares
+Daredevil
+540
+1900
+2
+3
+Moscow Art Theater
+Eugene Onegin
+Ambassador
+1300
+5600
+1
+2
+16
+Broadway
+Book of mormon
+The Dark lord
+1100
+6900
+1
+3
+Guetta
+Underworld
+14
+210
+Theater of Satire
+At the bottom
+Gimelius
+1200
+3500
+2
+3
+Alla Dukhovoy Theater
+In search of joy
+Coleman
+510
+1400
+2
+1
+Broadway
+Phantom of the Opera
+Jouel Schumacher
+5500
+10200
+1
+3
+Rumlond
+America
+14
+140
+Moscow Art Theater
+Talents and fans
+Jouel Schumacher
+5500
+10200
+3
+Rumlond
+America
+14
+140
+Theater of Satire
+Dog in the manger
+Gimelius
+1200
+3500
+2
+3
+Operetta Theater
+Dead Souls
+Mikhail Schweitzer
+1200
+6700
+1
+2
+13
+Broadway
+Evil
+Daredevil
+540
+1900
+2
+3
+Moscow Art Theater
+Too married taxi driver
+Jouel Schumacher
+5500
+10200
+1
+3
+Rumlond
+America
+14
+140
+Theater of Satire
+The Taming of the Shrew
+Leverworlf
+200
+2000
+1
+3
+Rubenshtein
+Russia
+11
+140
+Moscow Youth Palace
+Shaman king
+Mikhail Schweitzer
+1200
+6700
+1
+2
+13
+Alla Dukhovoy Theater
+Game of gin
+N. Cage
+1240
+7370
+1
+3
+Appleman
+Germany
+12
+132
+Central House of Culture
+Hamlet
+N. Cage
+1240
+7370
+1
+3
+Appleman
+Germany
+12
+132
+Moscow Youth Palace
+Corpse Bride
+Leverworlf
+200
+2000
+1
+3
+Rubenshtein
+Russia
+12
+140
+Broadway
+Chicago
+John Bubchain
+750
+10100
+1
+1
+6
+Operetta Theater
+Love and pigeons
+John Bubchain
+750
+10100
+1
+1
+6
+Central House of Culture
+Sleepy Hollow
+N. Cage
+1240
+7370
+1
+3
+Appleman
+Germany
+12
+132
+Moscow Youth Palace
+The king is always right
+Leverworlf
+200
+2000
+1
+3
+Rubenshtein
+Russia
+12
+140
+Moscow Art Theater
+Hero of our time
+John Bubchain
+750
+10100
+1
+1
+8
+Roman Witkuk Theater
+King Oedipus
+Leverworlf
+200
+2000
+1
+3
+Rubenshtein
+Russia
+12
+140
+Central House of Culture
+King Lear
+N. Cage
+1240
+7370
+1
+3
+Appleman
+Germany
+14
+130
+Moscow Youth Palace
+Catch Me If You Can
+John Bubchain
+750
+10100
+1
+1
+6
+Roman Witkuk Theater
+Number 13
+Stewart
+100
+1000
+1
+2
+16
+Alla Dukhovoy Theater
+Casting
+Stewart
+100
+1000
+1
+2
+16
+Moscow Youth Palace
+Lion king
+Disney
+150
+1500
+1
+1
+6
+Operetta Theater
+Mad of Chaillot
+Natalie Dorfmer
+3100
+20900
+3
+Guetta
+America
+12
+125
+Roman Witkuk Theater
+Nightmare on Lursin Street
+Natalie Dorfmer
+3100
+20900
+3
+Guetta
+America
+21
+150
+Central House of Culture
+The Wizard of Oz
+Jouel Schumacher
+5500
+10200
+1
+3
+Rumlond
+America
+14
+140
+Roman Witkuk Theater
+The roads that choose us
+Borisov
+1300
+1305
+3
+Rubenshtein
+Russia
+11
+140
+Central House of Culture
+Romeo and Juliet
+Shakespeare
+4000
+5600
+2
+2
